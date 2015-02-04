@@ -1,7 +1,7 @@
 myAmerica
 =========
 
-**myAmerica Project Site**
+**myAmerica Developer Summit (http://openglobe.github.io/myamerica-devsummit/)**
 Promoting our Nation's Public Lands and Waters
 ----------------------------------------------
 
